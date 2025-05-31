@@ -1057,7 +1057,7 @@ var data = {
     },
     {
       "src": ["http://imgur.com/tBgVOOf.png"],
-      "thumbnail": 'https://imgur.com/tBgVOOf.png",
+      "thumbnail": "https://imgur.com/tBgVOOf.png",
       "title": "Leif and Altena amulets" ,
       "artist": "Quralight",
       "artist_url": "https://x.com/Quralight",
