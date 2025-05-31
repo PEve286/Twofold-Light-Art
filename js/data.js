@@ -1058,7 +1058,7 @@ var data = {
     {
       "src": ["http://imgur.com/tBgVOOf.png"],
       "thumbnail": "https://imgur.com/tBgVOOf.png",
-      "title": "Leif and Altena amulets" ,
+      "title": "Leif and Altena amulets",
       "artist": "Quralight",
       "artist_url": "https://x.com/Quralight",
       "art_url": "https://x.com/PEve862/status/1810777304626516005",
@@ -1066,6 +1066,78 @@ var data = {
       "date_str": "July 9, 2024",
       "tags": [],
       "hidden": false
-    }           
-  ]
+    },
+    {
+      "src": ["https://imgur.com/d9fvSJa.png"],
+      "thumbnail": "https://imgr.com/d9fvSJa.png",
+      "title": "Dorias morning glories",
+      "artist": "Dotty",
+      "artist_url": "https://x.com/Dotted_Clouds",
+      "art_url": "https://x.com/PEve862/status/1829682701961699533",
+      "desc": "Dorias with morning glories trailing up his missing arm",
+      "date_str": "August 30, 2024",
+      "tags": [],
+      "hidden": false
+    },
+    {
+     "src": ["https://imgur.com/cRSipmd.png"],
+      "thumbnail": "https://imgur.com/cRSipmd.png",
+      "title": "Eyvel adopting Sara",
+      "artist": "Kiryuu_Sara",
+      "artist_url": "https://x.com/Kiryuu_Sara",
+      "art_url": "https://x.com/PEve862/status/1808473223094219197",
+      "desc": "Eyvel tucking a pink carnation in Sara's hair from Chapter 26",
+      "date_str": "July 3, 2024",
+      "tags": [],
+      "hidden": false
+    },
+    {
+     "src": ["https://imgur.com/mp6oC2C.png"],
+      "thumbnail": "https://imgur.com/mp6oC2C.png",
+      "title": "Sara accepting Eyvel",
+      "artist": "kitagawa_ti",
+      "artist_url": "https://x.com/kitagawa_ti",
+      "art_url": "https://x.com/PEve862/status/1827733198593224889",
+      "desc": "Sara giving Eyvel a pink carnation",
+      "date_str": "August 25, 2024",
+      "tags": [],
+      "hidden": false
+    },
+    {
+     "src": ["https://imgur.com/7oMc1Ed.png"],
+      "thumbnail": "https://imgur.com/7oMc1Ed.png",
+      "title": "Sage Asbel",
+      "artist": "sayomi96",
+      "artist_url": ,
+      "art_url": "https://x.com/PEve862/status/1836189015092994085",
+      "desc": "Sage Asbel design",
+      "date_str": "September 17, 2024",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://imgur.com/2odralN.png"],
+      "thumbnail": "https://imgur.com/2odralN.png",
+      "title": "Lara and Halvan",
+      "artist": "Cosme",
+      "artist_url": "https://x.com/rthunderatk",
+      "art_url": "https://x.com/rthunderatk/status/1850731300245721595",
+      "desc": "Halvan and Lara",
+      "date_str": "October 27, 2024",
+      "tags": [],
+      "hidden": false
+    },
+    {
+     "src": ["https://imgur.com/FDhE7VM.png"],
+      "thumbnail": "https://imgur.com/FDhE7VM.png",
+      "title": "Queen Linoan and King Arion",
+      "artist": "jyuu",
+      "artist_url": "https://x.com/jyuuren",
+      "art_url": "https://x.com/PEve862/status/1853550385861984343",
+      "desc": "Queen Linoan and King Arion",
+      "date_str": "November 4, 2024",
+      "tags": [],
+      "hidden": false
+    }
+    ]
 }
