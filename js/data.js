@@ -1066,7 +1066,6 @@ var data = {
       "date_str": "July 9, 2024",
       "tags": [],
       "hidden": false
-    }
-             
+    }           
   ]
 }
