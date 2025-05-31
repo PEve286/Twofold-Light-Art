@@ -1054,6 +1054,19 @@ var data = {
       "date_str": "",
       "tags": [],
       "hidden": false
+    },
+    {
+      "src": ["http://imgur.com/tBgVOOf.png"],
+      "thumbnail": 'https://imgur.com/tBgVOOf.png",
+      "title": "Leif and Altena amulets" ,
+      "artist": "Quralight",
+      "artist_url": "https://x.com/Quralight",
+      "art_url": "https://x.com/PEve862/status/1810777304626516005",
+      "desc": "Leif and Nanna wearing their amulets from Jake",
+      "date_str": "July 9, 2024",
+      "tags": [],
+      "hidden": false
     }
+             
   ]
 }
