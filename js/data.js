@@ -1012,10 +1012,10 @@ var data = {
       "thumbnail": "https://i.imgur.com/bieNIqH.jpg",
       "title": "Queens Nanna and Mareeta",
       "artist": "hunnymzdraws",
-      "artist_url": "",
-      "art_url": "",
-      "desc": "",
-      "date_str": "",
+      "artist_url": "https://x.com/hunnymzdraws",
+      "art_url": "https://x.com/PEve862/status/1794072769514148272",
+      "desc": "Queen Mareeta and Queen Nanna",
+      "date_str": "May 24, 2024",
       "tags": [],
       "hidden": false
     },
@@ -1056,7 +1056,7 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["http://imgur.com/tBgVOOf.png"],
+      "src": ["https://i.imgur.com/tBgVOOf.png"],
       "thumbnail": "https://imgur.com/tBgVOOf.png",
       "title": "Leif and Altena amulets",
       "artist": "Quralight",
@@ -1068,8 +1068,8 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["https://imgur.com/d9fvSJa.png"],
-      "thumbnail": "https://imgr.com/d9fvSJa.png",
+      "src": ["https://i.imgur.com/d9fvSJa.png"],
+      "thumbnail": "https://imgur.com/d9fvSJa.png",
       "title": "Dorias morning glories",
       "artist": "Dotty",
       "artist_url": "https://x.com/Dotted_Clouds",
@@ -1080,7 +1080,7 @@ var data = {
       "hidden": false
     },
     {
-     "src": ["https://imgur.com/cRSipmd.png"],
+     "src": ["https://i.imgur.com/cRSipmd.png"],
       "thumbnail": "https://imgur.com/cRSipmd.png",
       "title": "Eyvel adopting Sara",
       "artist": "Kiryuu_Sara",
@@ -1092,7 +1092,7 @@ var data = {
       "hidden": false
     },
     {
-     "src": ["https://imgur.com/mp6oC2C.png"],
+     "src": ["https://i.imgur.com/mp6oC2C.png"],
       "thumbnail": "https://imgur.com/mp6oC2C.png",
       "title": "Sara accepting Eyvel",
       "artist": "kitagawa_ti",
@@ -1104,11 +1104,11 @@ var data = {
       "hidden": false
     },
     {
-     "src": ["https://imgur.com/7oMc1Ed.png"],
+     "src": ["https://i.imgur.com/7oMc1Ed.png"],
       "thumbnail": "https://imgur.com/7oMc1Ed.png",
       "title": "Sage Asbel",
       "artist": "sayomi96",
-      "artist_url": ,
+      "artist_url": "",
       "art_url": "https://x.com/PEve862/status/1836189015092994085",
       "desc": "Sage Asbel design",
       "date_str": "September 17, 2024",
@@ -1116,7 +1116,7 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["https://imgur.com/2odralN.png"],
+      "src": ["https://i.imgur.com/2odralN.png"],
       "thumbnail": "https://imgur.com/2odralN.png",
       "title": "Lara and Halvan",
       "artist": "Cosme",
@@ -1128,7 +1128,7 @@ var data = {
       "hidden": false
     },
     {
-     "src": ["https://imgur.com/FDhE7VM.png"],
+     "src": ["https://i.imgur.com/FDhE7VM.png"],
       "thumbnail": "https://imgur.com/FDhE7VM.png",
       "title": "Queen Linoan and King Arion",
       "artist": "jyuu",
