@@ -486,7 +486,7 @@ var data = {
       "artist": "Snapperoni",
       "artist_url": "https://x.com/Snapperoni",
       "art_url": "https://x.com/PEve862/status/1600579704376934423",
-      "desc": "Thracia Liberation Army Trio",
+      "desc": "",
       "date_str": "December 7, 2022",
       "tags": [],
       "hidden": false
@@ -534,7 +534,7 @@ var data = {
       "artist": "tsunrugi",
       "artist_url": "https://x.com/tsunrugi",
       "art_url": "https://x.com/PEve862/status/1576592198799306752",
-      "desc": "Leif in blue hydrangeas",
+      "desc": "",
       "date_str": "October 2, 2022",
       "tags": [],
       "hidden": false
@@ -546,7 +546,7 @@ var data = {
       "artist": "tsunrugi",
       "artist_url": "https://x.com/tsunrugi",
       "art_url": "https://x.com/PEve862/status/1701588015536021651",
-      "desc": "Linoan in magnolias",
+      "desc": "",
       "date_str": "September 12, 2023",
       "tags": [],
       "hidden": false
@@ -558,7 +558,7 @@ var data = {
       "artist": "tsunrugi",
       "artist_url": "https://x.com/tsunrugi",
       "art_url": "",
-      "desc": "Sara in purple lotus",
+      "desc": "",
       "date_str": "",
       "tags": [],
       "hidden": false
@@ -570,7 +570,7 @@ var data = {
       "artist": "izubiki",
       "artist_url": "https://x.com/izusibiki",
       "art_url": "https://x.com/PEve862/status/1771657136302399733",
-      "desc": "Salem with dandelions",
+      "desc": "",
       "date_str": "March 23, 2023",
       "tags": [],
       "hidden": false
@@ -582,7 +582,7 @@ var data = {
       "artist": "argilla",
       "artist_url": "https://bsky.app/profile/babykatafan.bsky.social",
       "art_url": "https://x.com/PEve862/status/1797150835958268077",
-      "desc": "Lara with lily of the valleys",
+      "desc": "",
       "date_str": "June 2, 2024",
       "tags": [],
       "hidden": false
@@ -594,7 +594,7 @@ var data = {
       "artist": "a_o_hi_to",
       "artist_url": "https://x.com/a_o_hi_to",
       "art_url": "https://x.com/PEve862/status/1797150835958268077",
-      "desc": "Selfina with rosemary",
+      "desc": "",
       "date_str": "June 2, 2024",
       "tags": [],
       "hidden": false
@@ -642,7 +642,7 @@ var data = {
       "artist": "iamClarex2",
       "artist_url": "https://x.com/iamClarex2",
       "art_url": "https://x.com/iamClarex2/status/1711254244131791129",
-      "desc": "Leif casting his Ward spell on Finn",
+      "desc": "Leif casting his Ward spell on Finn in Chapter 29",
       "date_str": "October 9, 2023",
       "tags": [],
       "hidden": false
@@ -1108,7 +1108,7 @@ var data = {
       "thumbnail": "https://imgur.com/7oMc1Ed.png",
       "title": "Sage Asbel",
       "artist": "sayomi96",
-      "artist_url": "",
+      "artist_url": "https://x.com/xxsayomi_",
       "art_url": "https://x.com/PEve862/status/1836189015092994085",
       "desc": "Sage Asbel design",
       "date_str": "September 17, 2024",
@@ -1277,7 +1277,7 @@ var data = {
       "title": "Safy freesia",
       "artist": "Gale",
       "artist_url": "https://x.com/sampleduckling",
-      "art_url": "",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lqmln7wvd22x",
       "desc": "",
       "date_str": "",
       "tags": [],
@@ -1292,6 +1292,78 @@ var data = {
       "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3ln4jbvjnuc2d",
       "desc": "",
       "date_str": "April 18, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/a7V6V0Y.png"],
+      "thumbnail": "https://imgur.com/a7V6V0Y.png",
+      "title": "Troude Lavender",
+      "artist": "akobon",
+      "artist_url": "https://bsky.app/profile/akobonbon.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lqmln7wvd22x",
+      "desc": "",
+      "date_str": "June 2, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src":["https://i.imgur.com/dDAh3QW.png"],
+      "thumbnail": "https://imgur.com/dDAh3QW.png",
+      "title": "Ralf wild rose",
+      "artist": "lilkrAR7",
+      "artist_url": "",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lqmln7wvd22x",
+      "desc": "",
+      "date_str": "June 2, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/rPmUL5Y.png"],
+      "thumbnail": "https://imgur.com/rPmUL5Y.png",
+      "title": "Lara lily of the valley and forget me nots",
+      "artist": "GreenTapir0415",
+      "artist_url": "https://x.com/GreenTapir0415",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lnspzxxlm22x",
+      "desc": "",
+      "date_str": "April 27, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/y7bjnwa.png"],
+      "thumbnail": "https://imgur.com/y7bjnwa.png",
+      "title": "Second Gen Edain",
+      "artist": "AuraMage",
+      "artist_url": "https://x.com/magical_ria",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lomuav7dik2a",
+      "desc": "",
+      "date_str": "May 7, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/Ar70eXB.png"],
+      "thumbnail": "https://imgur.com/Ar70eXB.png",
+      "title": "Ethnia and her kids",
+      "artist": "asphodelis",
+      "artist_url": "https://bsky.app/profile/asphodelis.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lqiibi6tqc2s",
+      "desc": "",
+      "date_str":"May 31, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/HUZyJSd.png"],
+      "thumbnail": "https://imgur.com/HUZyJSd.png",
+      "title": "Duchess Tine second design",
+      "artist": "menthol2000",
+      "artist_url": "https://bsky.app/profile/menthol2000.bsky.social",
+      "art_url": "",
+      "desc": "",
+      "date_str": "",
       "tags": [],
       "hidden": false
     }
