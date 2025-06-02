@@ -1212,8 +1212,8 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["https://i.imgur.com/kfrEadV.gifv"],
-      "thumbnail": "https://imgur.com/kfrEadV.gifv",
+      "src": ["https://i.imgur.com/kfrEadV.gif"],
+      "thumbnail": "https://imgur.com/kfrEadV.gif",
       "title": "Trio Tarot",
       "artist": "wcv2",
       "artist_url": "https://x.com/wcv3two",
