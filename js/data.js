@@ -1224,6 +1224,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/BRGypEx.png"],
+      "thumbnail": "https://imgur.com/BRGypEX.png",
+      "title": "Linoan and Arion Tarot",
+      "artist": "wcv2",
+      "artist_url": "https://x.com/wcv3two",
+      "art_url": "bsky.app/profile/peve862.bsky.social/post/3mep27bzvcc26",
+      "desc": "",
+      "date_str": "January 7, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/yXlfrBu.png"],
       "thumbnail": "https://imgur.com/yXlfrBu.png",
       "title": "Better Without",
