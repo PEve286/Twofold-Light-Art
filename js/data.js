@@ -1224,7 +1224,7 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["https://i.imgur.com/BRGypEx.png"],
+      "src": ["https://i.imgur.com/BRGypEX.png"],
       "thumbnail": "https://imgur.com/BRGypEX.png",
       "title": "Linoan and Arion Tarot",
       "artist": "wcv2",
