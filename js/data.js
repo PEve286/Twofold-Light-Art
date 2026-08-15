@@ -1224,8 +1224,8 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["https://i.imgur.com/BRGypEX.png"],
-      "thumbnail": "https://imgur.com/BRGypEX.png",
+      "src": ["https://i.imgur.com/BRGypEx.png"],
+      "thumbnail": "https://imgur.com/BRGypEx.png",
       "title": "Linoan and Arion Tarot",
       "artist": "wcv2",
       "artist_url": "https://x.com/wcv3two",
@@ -1272,8 +1272,8 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["https://i.imgur.com/DjfxBlc.png"],
-      "thumbnail": "https://imgur.com/DjfxBlc.png",
+      "src": ["https://i.imgur.com/DjfxBIc.png"],
+      "thumbnail": "https://imgur.com/DjfxBIc.png",
       "title": "Dorias Tarot",
       "artist": "wcv2",
       "artist_url": "https://x.com/wcv3two",
