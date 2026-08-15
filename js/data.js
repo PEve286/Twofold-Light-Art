@@ -1405,13 +1405,37 @@ var data = {
     },
     {
       "src": ["https://i.imgur.com/G7bH9Sj.png"],
-      "thumbnail": "https://imgur.com/G7bh9Sj.png",
+      "thumbnail": "https://imgur.com/G7bH9Sj.png",
       "title": "Cain sage",
       "artist": "adriftcarp",
       "artist_url": "https://bsky.app/profile/adriftcarp.bsky.social",
       "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3m6zmulwp2s2q",
       "desc": "",
       "date_str": "July 3, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/DB1WlIf.png"],
+      "thumbnail": "https://imgur.com/DB1WlIf.png",
+      "title": "Alva sunflower",
+      "artist": "namelia",
+      "artist_url": "https://ko-fi.com/namelia",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3m6zmulwp2s2q",
+      "desc": "",
+      "date_str": "August 23, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/NcUQ8mA.png"],
+      "thumbnail": "https://imgur.com/NcUQ8mA.png",
+      "title": "Robert cyclamen",
+      "artist": "hushtulip",
+      "artist_url": "https://x.com/hushtulip",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3m6zmulwp2s2q",
+      "desc": "",
+      "date_str": "July 21, 2025",
       "tags": [],
       "hidden": false
     },
