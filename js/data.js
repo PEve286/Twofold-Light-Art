@@ -997,7 +997,7 @@ var data = {
     },
     {
       "src": ["https://i.imgur.com/M3sUlfz.png"],
-      "thumbnail": "https://imgur.com/M3zUlfz.png",
+      "thumbnail": "https://imgur.com/M3sUlfz.png",
       "title": "Finn Pink Rose",
       "artist": "Kiryuu_Sara",
       "artist_url": "https://x.com/Kiryuu_Sara",
