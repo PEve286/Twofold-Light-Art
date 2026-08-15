@@ -1380,6 +1380,42 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/BGf5N7N.png"],
+      "thumbnail": "https://imgur.com/BGf5N7N.png",
+      "title": "Sleuf calla lily",
+      "artist": "Yoru",
+      "artist_url": "https://x.com/yoruelci",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3m6zmuejiak2q",
+      "desc":"",
+      "date_str": "May 29, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/n7AUNIA.png"],
+      "thumbnail": "https://imgur.com/n7AUNIA.png",
+      "title": "Dagdar cactus flower",
+      "artist": "Beetol",
+      "artist_url": "https://bsky.app/profile/beetol.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3m6zmuejiak2q",
+      "desc": "",
+      "date_str": "July 9, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/G7bH9Sj.png"],
+      "thumbnail": "https://imgur.com/G7bh9Sj.png",
+      "title": "Cain sage",
+      "artist": "adriftcarp",
+      "artist_url": "https://bsky.app/profile/adriftcarp.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3m6zmulwp2s2q",
+      "desc": "",
+      "date_str": "July 3, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/rPmUL5Y.png"],
       "thumbnail": "https://imgur.com/rPmUL5Y.png",
       "title": "Lara lily of the valley and forget me nots",
