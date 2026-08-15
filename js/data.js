@@ -1548,6 +1548,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": "https://i.imgur.com/HqYw08c.png",
+      "thumbnail": "https://imgur.com/HqYw08c.png",
+      "title": "Oifey Flowers of Chalphy",
+      "artist": "GreenTapir0415",
+      "artist_url": "https://x.com/GreenTapir0415",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lt3jdtcmbk2m",
+      "desc": "",
+      "date_str": "July 2, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/y7bjnwa.png"],
       "thumbnail": "https://imgur.com/y7bjnwa.png",
       "title": "Second Gen Edain",
