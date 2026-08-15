@@ -1236,6 +1236,54 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/hpTUCso.png"],
+      "thumbnail": "https://imgur.com/hpTUCso.png",
+      "title": "Ced Tarot",
+      "artist": "wcv2",
+      "artist_url": "https://x.com/wcv3two",
+      "art_url": "bsky.app/profile/peve862.bsky.social/post/3mggg47ot4kcv",
+      "desc": "",
+      "date_str": "March 3, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/mNAMbk3.png"],
+      "thumbnail": "https://imgur.com/mNAMbk3.png",
+      "title": "Mareeta Tarot",
+      "artist": "wcv2",
+      "artist_url": "https://x.com/wcv3two",
+      "art_url": "bsky.app/profile/peve862.bsky.social/post/3milmlyw2e22l",
+      "desc": "",
+      "date_str": "April 3, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/a33TiHu.png"],
+      "thumbnail": "https://imgur.com/a33TiHu.png",
+      "title": "Eyvel Tarot",
+      "artist": "wcv2",
+      "artist_url": "https://x.com/wcv3two",
+      "art_url": "bsky.app/profile/peve862.bsky.social/post/3mjsf4veekk2c",
+      "desc": "",
+      "date_str": "April 17, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/DjfxBlc.png"],
+      "thumbnail": "https://imgur.com/DjfxBlc.png",
+      "title": "Dorias Tarot",
+      "artist": "wcv2",
+      "artist_url": "https://x.com/wcv3two",
+      "art_url": "bsky.app/profile/peve862.bsky.social/post/3moyklqpce22l",
+      "desc": "",
+      "date_str": "June 22, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/yXlfrBu.png"],
       "thumbnail": "https://imgur.com/yXlfrBu.png",
       "title": "Better Without",
