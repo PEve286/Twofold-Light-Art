@@ -1663,7 +1663,55 @@ var data = {
       "artist_url": "https://bsky.app/profile/menthol2000.bsky.social",
       "art_url": "",
       "desc": "",
-      "date_str": "",
+      "date_str": "June 2, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/tZt5NWj.png"],
+      "thumbnail": "https://i.imgur.com/tZt5NWj.png",
+      "title": "Final Duchess Tine design",
+      "artist": "EliEliArt",
+      "artist_url": "https://x.com/EliEliArt",
+      "art_url": "",
+      "desc": "",
+      "date_str": "April 2, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/WcyFVgP.png"],
+      "thumbnail": "https://i.imgur.com/WcyFVgP.png",
+      "title": "Rivough Galzus",
+      "artist": "Papperie",
+      "artist_url": "https://bsky.app/profile/papperie.bsky.social",
+      "art_url": "https://bsky.app/profile/papperie.bsky.social/post/3m5imnv6jw22m",
+      "desc": "",
+      "date_str": "November 4, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/YtlrlTH.png"],
+      "thumbnail": "https://i.imgur.com/YtlrlTH.png",
+      "title": "Darna Representative Laylea",
+      "artist": "Twighead",
+      "artist_url": "https://x.com/Twighead_",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mp5ow6ncek2o",
+      "desc": "",
+      "date_str": "June 24, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/2KhdsPF.png"],
+      "thumbnail": "https://i.imgur.com/2KhdsPF.png",
+      "title": "Fiana Sara",
+      "artist": "Celiedhan",
+      "artist_url": "https://x.com/celiedhan",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mnqd5aposk2y",
+      "desc": "",
+      "date_str": "June 4, 2026",
       "tags": [],
       "hidden": false
     }
