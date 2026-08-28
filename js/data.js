@@ -1584,6 +1584,54 @@ var data = {
       "hidden": false
     },
     {
+      "src": "https://i.imgur.com/9x7jnkg.png",
+      "thumbnail": "https://i.imgur.com/9x7jnkg.png",
+      "title": "Erinys Flowers of Those Who Came Before",
+      "artist": "Moriner",
+      "artist_url": "https://x.com/moriner_7",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mc47spsyqk2i",
+      "desc": "",
+      "date_str": "January 8, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/laMIxty.png"],
+      "thumbnail": "https://i.imgur.com/laMIxty.png",
+      "title": "Erinys Flowers of Those Who Come After",
+      "artist": "Mornier",
+      "artist_url": "https://x.com/moriner_7",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3md4f4iexds2p",
+      "desc": "",
+      "date_str": "January 23, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/MRaQiId.png"],
+      "thumbnail": "https://i.imgur.com/MRaQiId.png",
+      "title": "Lewyn Primrose",
+      "artist": "Mornier",
+      "artist_url": "https://x.com/moriner_7",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mfeyld4usc2k",
+      "desc": "",
+      "date_str": "February 15, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/tZDbIVJ.png"],
+      "thumbnail": "https://i.imgur.com/tZDbIVJ.png",
+      "title": "Forseti's Goldenrod",
+      "artist": "Akobon",
+      "artist_url": "https://x.com/AkobonArt",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lzmigkd6n224",
+      "desc": "",
+      "date_str": "September 24, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/y7bjnwa.png"],
       "thumbnail": "https://imgur.com/y7bjnwa.png",
       "title": "Second Gen Edain",
