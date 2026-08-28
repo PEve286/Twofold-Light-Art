@@ -600,6 +600,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/Zb0lzpY.png"],
+      "thumbnail": "https://i.imgur.com/Zb0lzpY.png",
+      "title": "Glade Rosemary",
+      "artist": "a_o_hi_to",
+      "artist_url": "https://x.com/a_o_hi_to",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mbuhpelgk22u",
+      "desc": "",
+      "date_str": "January 6, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/FIwDjCu.jpg"],
       "thumbnail": "https://i.imgur.com/FIwDjCu.jpg",
       "title": "Queen Erinys",
@@ -1292,6 +1304,18 @@ var data = {
       "art_url": "bsky.app/profile/peve862.bsky.social/post/3moyklqpce22l",
       "desc": "",
       "date_str": "June 22, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/zs6lNq0.png"],
+      "thumbnail": "https://imgur.com/zs6lNq0.png",
+      "title": "August Tarot",
+      "artist": "wcv2",
+      "artist_url": "https://x.com/wcv3two",
+      "art_url": "",
+      "desc": "",
+      "date_str": "August 25, 2026",
       "tags": [],
       "hidden": false
     },
