@@ -1356,6 +1356,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/iV6sWqN.png"],
+      "thumbnail": "https://imgur.com/iV6sWqN.png",
+      "title": "Carrion and Coirpre",
+      "artist": "namelia",
+      "artist_url": "https://ko-fi.com/namelia",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mbm3i6gho22e",
+      "desc": "",
+      "date_str": "January 2, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/oeFcVli.png"],
       "thumbnail": "https://imgur.com/oeFcVli.png",
       "title": "Trio Flower Crowns",
@@ -1364,6 +1376,18 @@ var data = {
       "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3lksouo47522e",
       "desc": "",
       "date_str": "March 20, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/8OikSJA.png"],
+      "thumbnail": "https://imgur.com/8OikSJA.png",
+      "title": "Promoted Leif and Asbel",
+      "artist": "Chynandri",
+      "artist_url": "https://bsky.app/profile/chynandri.bsky.social",
+      "art_url": "",
+      "desc": "",
+      "date_str": "July 25, 2025",
       "tags": [],
       "hidden": false
     },
@@ -1712,6 +1736,78 @@ var data = {
       "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mnqd5aposk2y",
       "desc": "",
       "date_str": "June 4, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/iPzuUFJ.png"],
+      "thumbnail": "https://imgur.com/iPzuUFJ.png",
+      "title": "Aed Leif and Eyvel",
+      "artist": "asphodelis",
+      "artist_url": "https://bsky.app/profile/asphodelis.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3m5fdt5dgvk2b",
+      "desc": "",
+      "date_str": "November 9, 2025",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/SAyaXwp.png"],
+      "thumbnail": "https://imgur.com/SAyaXwp.png",
+      "title": "Arvis and Saias light magic",
+      "artist": "Kuoh",
+      "artist_url": "https://x.com/kuohsan",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mmabwwabic2z",
+      "desc": "",
+      "date_str": "May 19, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/NiIxWCP.png"],
+      "thumbnail": "https://imgur.com/NiIxWCP.png",
+      "title": "Tine braiding Linoan's hair",
+      "artist": "YaeSakura",
+      "artist_url": "https://x.com/sakuya20045",
+      "art_url": "https://x.com/sakuya20045/status/2072890280626511972",
+      "desc": "",
+      "date_str": "July 2, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/gMQzDWQ.png"],
+      "thumbnail": "https://imgur.com/gMQzDWQ.png",
+      "title": "Ced teaching Leif to dance",
+      "artist": "asphodelis",
+      "artist_url": "https://bsky.app/profile/asphodelis.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mthtivwyss2n",
+      "desc": "",
+      "date_str": "August 18, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/D18AFWL.png"],
+      "thumbnail": "https://imgur.com/D18AFWL.png",
+      "title": "Last of the Dandelions",
+      "artist": "Cortashy",
+      "artist_url": "https://x.com/cortashy",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3msjklh4ke22q",
+      "desc": "",
+      "date_str": "February 27, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/RSUFFlN.png"],
+      "thumbnail": "https://imgur.com/RSUFFlN.png",
+      "title": "Finding Lachesis's Statue",
+      "artist": "aiueOKOSO",
+      "artist_url": "https://x.com/aiueOKOSO",
+      "art_url": "https://bsky.app/profile/peve862,bsky.social/post/3mry5yvhvw223",
+      "desc": "",
+      "date_str": "July 28, 2026",
       "tags": [],
       "hidden": false
     }
