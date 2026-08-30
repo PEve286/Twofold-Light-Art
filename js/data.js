@@ -1892,7 +1892,7 @@ var data = {
       "art_url": "https://bsky.app/profile/dt75art.bsky.social/post/3mgzoondeik2z",
       "desc": "",
       "date_str": "March 13, 2026",
-      "tags": ["Selfina"],
+      "tags": [],
       "hidden": false
     },
     {
@@ -1904,7 +1904,7 @@ var data = {
       "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mk765qxfes2h",
       "desc": "",
       "date_str": "April 22, 2026",
-      "tags": ["Carrion"],
+      "tags": [],
       "hidden": false
     },
     {
@@ -1916,7 +1916,7 @@ var data = {
       "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mpo3m6tu2k2k",
       "desc": "",
       "date_str": "July 1, 2026",
-      "tags": ["Leif"],
+      "tags": [],
       "hidden": false 
     }
     ]
