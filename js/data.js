@@ -972,6 +972,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/2nl7oOI.png"],
+      "thumbnail": "https://imgur.com/2nl7oOI.png",
+      "title": "Altena short hair",
+      "artist": "yidelia",
+      "artist_url": "https://www.yidelia.com/",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mogscdficc2p",
+      "desc": "",
+      "date_str": "June 16, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/TmYx3ly.png"],
       "thumbnail": "https://i.imgur.com/TmYx3ly.png",
       "title": "King Leif and Queen Nanna Statue",
