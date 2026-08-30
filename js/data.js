@@ -756,6 +756,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/950OgfC.png"],
+      "thumbnail": "https://imgur.com/950OgfC.png",
+      "title": "Light Wielders",
+      "artist": "Kakitamajiru",
+      "artist_url": "https://bsky.app/profile/did:plc:ehdeyji57f6xsyxfruxqfai6",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mi7jedboyk27",
+      "desc": "",
+      "date_str": "March 29, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/BB4P5WA.png"],
       "thumbnail": "https://i.imgur.com/BB4P5WA.png",
       "title": "Arion Linoan Forehead Kiss",
@@ -1656,6 +1668,42 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/J2ZJtbO.png"],
+      "thumbnail": "https://imgur.com/J2ZJtbO.png",
+      "title": "Brugmansia",
+      "artist": "Goblinn",
+      "artist_url": "https://bsky.app/profile/goblinn.bsky.social",
+      "art_url": "https://bsky.app/profile/goblinn.bsky.social/post/3mgiafwdxjs2f",
+      "desc": "",
+      "date_str": "March 7, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/GTITZ4e.png"],
+      "thumbnail": "https://imgur.com/GTITZ4e.png",
+      "title": "Ares tansy",
+      "artist": "Sooh",
+      "artist_url": "https://bsky.app/profile/soohshii.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mriuie6qls2i",
+      "desc": "",
+      "date_str": "July 24, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/phWBYnL.png"],
+      "thumbnail": "https://imgur.com/phWBYnL.png",
+      "title": "Jeanne and Tristan Blossom Knights",
+      "artist": "Erikensa",
+      "artist_url": "https://bsky.app/profile/erikensa.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mfuzkoz5hs2t",
+      "desc": "",
+      "date_str": "February 16, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/y7bjnwa.png"],
       "thumbnail": "https://imgur.com/y7bjnwa.png",
       "title": "Second Gen Edain",
@@ -1764,6 +1812,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/Sc6yWo8.png"],
+      "thumbnail": "https://imgur.com/Sc6yWo8.png",
+      "title": "Saias fire magic",
+      "artist": "Kuoh",
+      "artist_url": "https://x.com/kuohsan",
+      "art_url": "",
+      "desc": "",
+      "date_str": "May 19, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/NiIxWCP.png"],
       "thumbnail": "https://imgur.com/NiIxWCP.png",
       "title": "Tine braiding Linoan's hair",
@@ -1805,9 +1865,21 @@ var data = {
       "title": "Finding Lachesis's Statue",
       "artist": "aiueOKOSO",
       "artist_url": "https://x.com/aiueOKOSO",
-      "art_url": "https://bsky.app/profile/peve862,bsky.social/post/3mry5yvhvw223",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mry5yvhvw223",
       "desc": "",
       "date_str": "July 28, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/nIYzgCi"],
+      "thumbnail": "https://imgur.com/nIYzgCi",
+      "title": "Deadlord Selfina",
+      "artist": "Dt75Art",
+      "artist_url": "https://bsky.app/profile/dt75art.bsky.social",
+      "art_url": "https://bsky.app/profile/dt75art.bsky.social/post/3mgzoondeik2z",
+      "desc": "",
+      "date_str": "March 13, 2026",
       "tags": [],
       "hidden": false
     }
