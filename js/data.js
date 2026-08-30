@@ -1908,8 +1908,8 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["https://i.imgur.com/kFltsb7"],
-      "thumbnail": "https://imgur.com/kFltsb7",
+      "src": ["https://i.imgur.com/kFltsb7.png"],
+      "thumbnail": "https://imgur.com/kFltsb7.png",
       "title": "Pink to Blue Hydrangeas",
       "artist": "Reshje0",
       "artist_url": "https://x.com/Reshje0",
