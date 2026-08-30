@@ -1872,8 +1872,8 @@ var data = {
       "hidden": false
     },
     {
-      "src": ["https://i.imgur.com/nIYzgCi"],
-      "thumbnail": "https://imgur.com/nIYzgCi",
+      "src": ["https://i.imgur.com/nIYzgCi.png"],
+      "thumbnail": "https://imgur.com/nIYzgCi.png",
       "title": "Deadlord Selfina",
       "artist": "Dt75Art",
       "artist_url": "https://bsky.app/profile/dt75art.bsky.social",
