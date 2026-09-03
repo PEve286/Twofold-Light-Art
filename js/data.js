@@ -1337,9 +1337,21 @@ var data = {
       "title": "August Tarot",
       "artist": "wcv2",
       "artist_url": "https://x.com/wcv3two",
-      "art_url": "",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mucr63hvgc27",
       "desc": "",
       "date_str": "August 25, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/llPyEMU.png"],
+      "thumbnail": "https://imgur.com/llPyEMU.png",
+      "title": "Sara Tarot",
+      "artist": "wcv2",
+      "artist_url": "https://x.com/wcv3two",
+      "art_url": "",
+      "desc": "",
+      "date_str": "September 1, 2026",
       "tags": [],
       "hidden": false
     },
@@ -1892,6 +1904,18 @@ var data = {
       "art_url": "https://bsky.app/profile/dt75art.bsky.social/post/3mgzoondeik2z",
       "desc": "",
       "date_str": "March 13, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/cbq7ApS.png"],
+      "thumbnail": "https://imgur.com/cbq7ApS.png",
+      "title": "Don't Be Next",
+      "artist": "Yasmeen",
+      "artist_url": "https://bsky.app/profile/yamisha.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mul227jm6c26",
+      "desc": "",
+      "date_str": "July 30, 2026",
       "tags": [],
       "hidden": false
     },
