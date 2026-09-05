@@ -1404,6 +1404,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/mJR4sF8.png"],
+      "thumbnail": "https://imgur.com/mJR4sF8.png",
+      "title": "Asaello and Daisy",
+      "artist": "Lazzle",
+      "artist_url": "https://bsky.app/profile/lazzledazzle.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mupqvq4ysc2k",
+      "desc": "",
+      "date_str": "September 4, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/oeFcVli.png"],
       "thumbnail": "https://imgur.com/oeFcVli.png",
       "title": "Trio Flower Crowns",
