@@ -1751,6 +1751,30 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/jpm7ouC.png"],
+      "thumbnail": "https://imgur.com/jpm7ouC.png",
+      "title": "Julia twins white lily",
+      "artist": "Peebs",
+      "artist_url": "https://x.com/stupiderat",
+      "art_url": "",
+      "desc": "",
+      "date_str": "September 10, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/mWnT1pd.png"],
+      "thumbnail": "https://imgur.com/mWnT1pd.png",
+      "title": "Eyvel twins amaryllis",
+      "artist": "atmosgwab",
+      "artist_url": "https://x.com/atmosgwab",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mux6wym23s2u",
+      "desc": "",
+      "date_str": "September 6, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/y7bjnwa.png"],
       "thumbnail": "https://imgur.com/y7bjnwa.png",
       "title": "Second Gen Edain",
