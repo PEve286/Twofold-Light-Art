@@ -1349,9 +1349,20 @@ var data = {
       "title": "Sara Tarot",
       "artist": "wcv2",
       "artist_url": "https://x.com/wcv3two",
-      "art_url": "",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mv4qos7fzs2t",
       "desc": "",
       "date_str": "September 1, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/rEbOHIH.png"],
+      "thumbnail": "https://imgur.com/rEbOHIH.png",
+      "title": "Finn Tarot",
+      "artist": "wcv2",
+      "artist_url": "https://x.com/wcv3two",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mvbo7vsluc2v",
+      "date_str": "September 7, 2026",
       "tags": [],
       "hidden": false
     },
