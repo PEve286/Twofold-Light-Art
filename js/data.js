@@ -684,6 +684,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/8kqiVfI.png"],
+      "thumbnail": "https://imgur.com/8kqiVfI.png",
+      "title": "Leif and Julia meet in Silesse",
+      "artist": "Zerun0",
+      "artist_url": "https://zerun0.tumblr.com/",
+      "art_url": "",
+      "desc": "",
+      "date_str": "September 23, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/W4QRNyF.jpg"],
       "thumbnail": "https://i.imgur.com/W4QRNyF.jpg",
       "title": "Leif Asbel Nanna Stargazing",
@@ -800,6 +812,18 @@ var data = {
       "art_url": "https://x.com/PEve862/status/1651266216982462482",
       "desc": "",
       "date_str": "April 26, 2023",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src":["https://i.imgur.com/V4pV9TM.png"],
+      "thumbnail":"https://imgur.com/V4pV9TM.png",
+      "title": "Arion Linoan hands kiss",
+      "artist": "frosstish",
+      "artist_url": "https://bsky.app/profile/did:plc:p5ajqcg7ft6urnrafoip4cfx",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mwyyi2jizk2s",
+      "desc": "",
+      "date_str": "September 29, 2026",
       "tags": [],
       "hidden": false
     },
@@ -1475,6 +1499,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/HNr4WPP.png"],
+      "thumbnail": "https://imgur.com/HNr4WPP.png",
+      "title": "Arion and Linoan couple flowers",
+      "artist": "ArcaneSouls",
+      "artist_url": "https://bsky.app/profile/did:plc:egh622nvozuqbxqm2vukpd4a",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mxupby3uec2g",
+      "desc": "",
+      "date_str": "October 13, 2026",
+      "tags":[],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/a7V6V0Y.png"],
       "thumbnail": "https://imgur.com/a7V6V0Y.png",
       "title": "Troude Lavender",
@@ -1775,6 +1811,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/XapgCBc.png"],
+      "thumbnail": "https://imgur.com/XapgCBc.png",
+      "title": "Lara statice and sweet pea",
+      "artist": "atmosgwab",
+      "artist_url": "https://x.com/atmosgwab",
+      "art_url": "",
+      "desc": "",
+      "date_str": "September 21, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/y7bjnwa.png"],
       "thumbnail": "https://imgur.com/y7bjnwa.png",
       "title": "Second Gen Edain",
@@ -1975,6 +2023,18 @@ var data = {
       "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mk765qxfes2h",
       "desc": "",
       "date_str": "April 22, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/lvryoG2.png"],
+      "thumbnail": "https://imgur.com/lvryoG2.png",
+      "title": "Linoan lewisia rebirth crown",
+      "artist": "nonoworks",
+      "artist_url": "https://bsky.app/profile/nonoworks.bsky.social",
+      "art_url": "https://bsky.app/profile/nonoworks.bsky.social/post/3mxfou6m5xc2i",
+      "desc": "",
+      "date_str": "October 8, 2026",
       "tags": [],
       "hidden": false
     },
