@@ -960,6 +960,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/xqdhM4x.png"],
+      "thumbnail": "https://imgur.com/xqdhM4x.png",
+      "title": "Asbel campanula crown",
+      "artist": "racc_chan",
+      "artist_url": "https://x.com/racc_chan",
+      "art_url": "",
+      "desc": "",
+      "date_str": "October 18, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/c6dFppf.png"],
       "thumbnail": "https://i.imgur.com/c6dFppf.png",
       "title": "Arion Hair Sketch",
