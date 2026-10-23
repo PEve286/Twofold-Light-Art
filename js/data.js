@@ -1081,7 +1081,7 @@ var data = {
     },
     {
       "src": ["https://i.imgur.com/ImKRrWR.png"],
-      "thumbnail": "https://imgur.com/ImKRrWR",
+      "thumbnail": "https://imgur.com/ImKRrWR.png",
       "title": "Nanna Queen Anne's Lace",
       "artist": "galangbr_",
       "artist_url": "https://bsky.app/profile/galangbr.bsky.social",
