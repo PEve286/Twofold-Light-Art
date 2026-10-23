@@ -1080,6 +1080,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/ImKRrWR.png"],
+      "thumbnail": "https://imgur.com/ImKRrWR",
+      "title": "Nanna Queen Anne's Lace",
+      "artist": "galangbr_",
+      "artist_url": "https://bsky.app/profile/galangbr.bsky.social",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3mydn2g53wk25",
+      "desc": "",
+      "date_str": "October 20, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/qb0stw7.png"],
       "thumbnail": "https://i.imgur.com/qb0stw7.png",
       "title": "Queen Nanna",
