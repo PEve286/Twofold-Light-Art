@@ -636,6 +636,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/HinzLnt.jpg"],
+      "thumbnail": "https://imgur.com/HinzLnt.jpg",
+      "title": "Asbel Shield Ring",
+      "artist": "moonclovermello",
+      "artist_url": "https://x.com/moonclovermello",
+      "art_url": "",
+      "desc": "",
+      "date_str": "November 2, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/7iWrezB.jpg"],
       "thumbnail": "https://i.imgur.com/7iWrezB.jpg",
       "title": "Leif Shot",
