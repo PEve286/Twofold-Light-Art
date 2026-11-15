@@ -312,6 +312,18 @@ var data = {
       "hidden": false
     },
     {
+      "src": ["https://i.imgur.com/5AnIzeJ.png"],
+      "thumbnail": "https://imgur.com/5AnIzeJ.png",
+      "title": "Birthday Leif",
+      "artist": "Cyr",
+      "artist_url": "https://bsky.app/profile/kurwerz.bsky.social",
+      "art_url": "https://x.com/kurwerz/status/2121276176815514091",
+      "desc": "",
+      "date_str": "November 13, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
       "src": ["https://i.imgur.com/tFfHbno.jpg"],
       "thumbnail": "https://i.imgur.com/tFfHbno.jpg",
       "title": "Puppy Sketch",
@@ -567,11 +579,23 @@ var data = {
       "src": ["https://i.imgur.com/nxknnU0.png"],
       "thumbnail": "https://i.imgur.com/nxknnU0.png",
       "title": "Salem Dandelion",
-      "artist": "izubiki",
+      "artist": "izusibiki",
       "artist_url": "https://x.com/izusibiki",
       "art_url": "https://x.com/PEve862/status/1771657136302399733",
       "desc": "",
       "date_str": "March 23, 2023",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/tfkggDV.png"],
+      "thumbnail": "https://imgur.com/tfkggDV.png",
+      "title": "Perne Dandelion",
+      "artist": "izusibiki",
+      "artist_url": "https://x.com/izusibiki",
+      "art_url": "",
+      "desc": "",
+      "date_str": "April 29, 2026",
       "tags": [],
       "hidden": false
     },
