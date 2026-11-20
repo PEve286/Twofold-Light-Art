@@ -665,9 +665,21 @@ var data = {
       "title": "Asbel Shield Ring",
       "artist": "moonclovermello",
       "artist_url": "https://x.com/moonclovermello",
-      "art_url": "",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3n2p32aaatc23",
       "desc": "",
       "date_str": "November 2, 2026",
+      "tags": [],
+      "hidden": false
+    },
+    {
+      "src": ["https://i.imgur.com/zl7E5kx.png"],
+      "thumbnail": "https://imgur.com/zl7E5kx.png",
+      "title": "Tine Magic Ring",
+      "artist": "moonclovermello",
+      "artist_url": "https://x.com/moonclovermello",
+      "art_url": "https://bsky.app/profile/peve862.bsky.social/post/3n2p32aaatc23",
+      "desc": "",
+      "date_str": "November 18, 2026",
       "tags": [],
       "hidden": false
     },
